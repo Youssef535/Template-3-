@@ -75,7 +75,7 @@ Clone the repository
 <!-- CONTRIBUTING -->
 ## Contributing
 
-**Crypto Cap** is open-source and open to contributors. We apperciate all of your efforts making the project a reliable environment.
+**The Project** is open-source and open to contributors. We apperciate all of your efforts making the project a reliable environment.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
